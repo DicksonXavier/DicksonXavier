@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DicksonXavier
-- 👀 I’m interested in Books, Writing blogs, thinking about thinking! 
+- 👀 I’m interested in Books, Writing blogs, coding 
 - 🌱 I’m currently learning Artificial general intelligence, Guitar and Vue 3
 - 💞️ I’m looking to collaborate on Cool 
 - 📫 How to reach me +46764404057
